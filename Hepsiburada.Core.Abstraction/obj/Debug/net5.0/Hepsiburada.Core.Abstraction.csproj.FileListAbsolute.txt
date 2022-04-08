@@ -1,0 +1,12 @@
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\bin\Debug\net5.0\Hepsiburada.Core.Abstraction.deps.json
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\bin\Debug\net5.0\Hepsiburada.Core.Abstraction.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\bin\Debug\net5.0\ref\Hepsiburada.Core.Abstraction.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\bin\Debug\net5.0\Hepsiburada.Core.Abstraction.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.csproj.AssemblyReference.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.AssemblyInfoInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.AssemblyInfo.cs
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\ref\Hepsiburada.Core.Abstraction.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Core.Abstraction\obj\Debug\net5.0\Hepsiburada.Core.Abstraction.pdb

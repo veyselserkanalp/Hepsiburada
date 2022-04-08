@@ -1,0 +1,15 @@
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\Hespiburada.Data.EntityFramework.deps.json
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\Hespiburada.Data.EntityFramework.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\ref\Hespiburada.Data.EntityFramework.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\Hespiburada.Data.EntityFramework.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.AssemblyInfo.cs
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\ref\Hespiburada.Data.EntityFramework.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\Hepsiburada.Core.Abstraction.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\bin\Debug\net5.0\Hepsiburada.Core.Abstraction.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hespiburada.Data.EntityFramework\obj\Debug\net5.0\Hespiburada.Data.EntityFramework.csproj.CopyComplete

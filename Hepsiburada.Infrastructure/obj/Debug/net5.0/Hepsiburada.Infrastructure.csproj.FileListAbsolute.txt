@@ -1,0 +1,12 @@
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\bin\Debug\net5.0\Hepsiburada.Infrastructure.deps.json
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\bin\Debug\net5.0\Hepsiburada.Infrastructure.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\bin\Debug\net5.0\ref\Hepsiburada.Infrastructure.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\bin\Debug\net5.0\Hepsiburada.Infrastructure.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.AssemblyInfo.cs
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\ref\Hepsiburada.Infrastructure.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Infrastructure\obj\Debug\net5.0\Hepsiburada.Infrastructure.csproj.AssemblyReference.cache

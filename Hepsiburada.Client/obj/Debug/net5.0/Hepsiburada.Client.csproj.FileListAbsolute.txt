@@ -1,0 +1,12 @@
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\bin\Debug\net5.0\Hepsiburada.Client.deps.json
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\bin\Debug\net5.0\Hepsiburada.Client.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\bin\Debug\net5.0\ref\Hepsiburada.Client.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\bin\Debug\net5.0\Hepsiburada.Client.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.csproj.AssemblyReference.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.AssemblyInfoInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.AssemblyInfo.cs
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.csproj.CoreCompileInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\ref\Hepsiburada.Client.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Client\obj\Debug\net5.0\Hepsiburada.Client.pdb

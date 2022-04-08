@@ -1,0 +1,12 @@
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\bin\Debug\net5.0\Hepsiburada.Domain.deps.json
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\bin\Debug\net5.0\Hepsiburada.Domain.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\bin\Debug\net5.0\ref\Hepsiburada.Domain.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\bin\Debug\net5.0\Hepsiburada.Domain.pdb
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.csproj.AssemblyReference.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.AssemblyInfoInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.AssemblyInfo.cs
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.csproj.CoreCompileInputs.cache
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\ref\Hepsiburada.Domain.dll
+C:\Users\veysel.alp\Desktop\HepsiburadaMicro\HepsiburadaMicro\Hepsiburada.Domain\obj\Debug\net5.0\Hepsiburada.Domain.pdb
